@@ -2,9 +2,9 @@
 {
   "users":[
     {
-      id:1,
-      email: "oqwe@qwe.com",
-      password: "123biwqe"
+      "id":1,
+      "email": "oqwe@qwe.com",
+      "password": "123biwqe",
     }
   
   ]
